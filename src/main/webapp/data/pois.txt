@@ -1,0 +1,25 @@
+POI MAS CERCANO
+http://localhost:8080/pois-app/buenos-aires-turismos/poi-mas-cercanos/-34.603765/-58.381570
+
+TODOS LOS POIS
+http://localhost:8080/pois-app/buenos-aires-turismos/pois
+
+POIS VACIOS
+http://localhost:8080/pois-app/buenos-aires-turismos/pois-vacios
+
+POIS PIZZERIAS
+http://localhost:8080/pois-app/buenos-aires-turismos/pizzerias-de-buenos-aires/pois
+
+
+/****************VERSION 2**************/
+POI MAS CERCANO
+http://localhost:8080/pois-app/buenos-aires-turismo/poi-mas-cercanos/-34.603765/-58.381570
+
+POIS PIZZERIAS
+http://localhost:8080/pois-app/buenos-aires-turismo/pizzerias-de-buenos-aires/pois
+
+TODOS LOS POIS
+http://localhost:8080/pois-app/buenos-aires-turismo/pois
+
+POIS VACIOS
+http://localhost:8080/pois-app/buenos-aires/pois
