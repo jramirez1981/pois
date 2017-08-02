@@ -27,4 +27,13 @@ public class POIAceptacionIT {
 		return new BufferedReader(new InputStreamReader(connection.getInputStream())).readLine();
 	}
 	
+	@Test
+	public void ServicioNoExiste() throws Exception{
+		String url = "http://localhost:8080/pois-app/buenos-aires-turismos/pois";
+		String respuesta = this.obtenerContenidoRespuesta(url);
+		assertThat(respuesta).contains("");
+		
+		
+	}
+	
 }
